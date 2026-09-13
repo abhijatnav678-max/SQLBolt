@@ -11,3 +11,5 @@ My SQL practice and solutions while learning SQL through SQLBolt.
 - Review Lesson 1-4
 - Lesson 6 — Multi-table queries with JOINS 
 - Lesson 7 — Outer JOINS
+- Lesson 8 — A Short note on NULLS
+- Lesson 9 — Queries with Expression
