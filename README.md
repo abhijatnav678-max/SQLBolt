@@ -13,3 +13,6 @@ My SQL practice and solutions while learning SQL through SQLBolt.
 - Lesson 7 — Outer JOINS
 - Lesson 8 — A Short note on NULLS
 - Lesson 9 — Queries with Expression
+- Lesson 10 — Queries with Aggregates PT.1
+- Lesson 11 — Queries with Aggregates PT.2
+- Lesson 12 — Order of executing of a query
